@@ -1,0 +1,4 @@
+[build]
+  command = "npm run build"
+  # The Netlify plugin sets the publish directory automatically.
+  # Do NOT set `publish` manually — it is handled by @netlify/vite-plugin-tanstack-start.
